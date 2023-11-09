@@ -1,22 +1,17 @@
 [
     {
-        "title": "math",
-        "text": "2+2=4",
-        "note_id": "3fe5d166-2f9e-4e3d-87a7-25a561207c6c"
-    },
-    {
         "title": "History",
         "text": "War",
-        "note_id": "ca0616fa-f603-4d85-a9c6-fa62c73a9bf9"
+        "id": "ca0616fa-f603-4d85-a9c6-fa62c73a9bf9"
     },
     {
         "title": "Programming",
         "text": "When will I ever use this?",
-        "note_id": "c83c28af-9197-4f2f-b119-03236ecfc0b6"
+        "id": "c83c28af-9197-4f2f-b119-03236ecfc0b6"
     },
     {
         "text": "asdf",
         "title": "asdf",
-        "note_id": "e82c67cc-2a26-4a23-a05e-c401fa071e37"
+        "id": "e82c67cc-2a26-4a23-a05e-c401fa071e37"
     }
 ]
